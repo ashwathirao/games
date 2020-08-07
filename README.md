@@ -34,3 +34,12 @@ Then we create the title of the window.
 Lets mark a random choise for computer and the input choise of these user is stored.
 Then let us define a function to compare the choises.
 We end by a root.mainloop() function to keep events on the main window active and all other widgets interactive
+
+
+AGE CALCULATOR
+
+Basic Algorithms are used for functions and tkinter for GUI 
+
+WIFI-PASSWORD 
+
+A basic program to detect the passwords of the wifi connection that were used in your device.
