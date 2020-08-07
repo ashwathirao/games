@@ -1,5 +1,5 @@
 # games
-
+TIC TAC TOE
 We are going to build a two-player tic-tac-toe game, which we can play in the GUI (made by tkinter).
 Initially, we’ll make an empty game board and then we’ll take inputs from the players and we’ll check for the winning condition.
 if the whole board gets filled and no one wins, we’ll declare the result as “Draw” and restart the game.
